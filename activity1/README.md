@@ -5,6 +5,10 @@
 - Refer to the following link. Discuss how bubble sort works:
   https://opendsa-server.cs.vt.edu/embed/bubblesortAV
 
+  Ans: 
+     - Bubble sort works, Starting from the beginning of the list, Compare the first value in the list with the next one up. If the first value is bigger, swap the positions of the two values, Move to the second value in the list, Keep going until there are no more items to compare.
+
+
 ## Task 2
 
 - Refer to the following link. Your task is to show the behavior for one iteration of the outer for loop of Bubble Sort (Try at least 3 cases).
