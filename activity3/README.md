@@ -5,6 +5,9 @@
 - Refer to the following link. Discuss how Queues based on linked lists works:
   https://www.cs.usfca.edu/~galles/visualization/QueueLL.html
 
+  Ans: 
+    - A Queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. This means that the first element that was added to the queue will be the first one to be removed.
+
 ## Task 2:
 
 - The following snippet is from `./src/queue.cpp` lines 8-10. What happens if `front`, `rear` and `temp` were not global variables?
